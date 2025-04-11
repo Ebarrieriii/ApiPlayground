@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPlayground.Data", "ApiPlayground.Data\ApiPlayground.Data.csproj", "{D609CD5B-C078-434F-9BFD-36E809A566C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller.Api", "Controller.Api\Controller.Api.csproj", "{777E8AE5-7095-433A-9149-4BDBC0FC42E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D609CD5B-C078-434F-9BFD-36E809A566C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D609CD5B-C078-434F-9BFD-36E809A566C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D609CD5B-C078-434F-9BFD-36E809A566C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D609CD5B-C078-434F-9BFD-36E809A566C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{777E8AE5-7095-433A-9149-4BDBC0FC42E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{777E8AE5-7095-433A-9149-4BDBC0FC42E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{777E8AE5-7095-433A-9149-4BDBC0FC42E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{777E8AE5-7095-433A-9149-4BDBC0FC42E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6A7528C-939A-48D5-9EAB-2BF07D7A46BA}
+	EndGlobalSection
+EndGlobal
